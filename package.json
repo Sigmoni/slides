@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "reveal-md": "^6.1.2"
+  },
+  "scripts": {
+    "watch": "reveal-md src/ -w",
+    "build": "rm -rf docs && reveal-md src/ --static docs --static-dirs=src/assets"
+  }
+}
