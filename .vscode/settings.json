@@ -1,4 +1,21 @@
 {
     "pasteImage.path": "${currentFileDir}/assets",
     "pasteImage.basePath": "${currentFileDir}",
+    "cSpell.words": [
+        "argmax",
+        "Changkai",
+        "Chengliang",
+        "circlearc",
+        "dataencodeing",
+        "Dequantization",
+        "Guoliang",
+        "invertiblelayer",
+        "Jiabin",
+        "Jiayi",
+        "mathbb",
+        "mathop",
+        "mathrm",
+        "operatorname",
+        "VLDB"
+    ],
 }
